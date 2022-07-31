@@ -21,7 +21,7 @@ Zida Sung
 Bob Lineberry
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Soldering-Room-Improvements"" >Soldering-Room-Improvements</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Soldering-Room-Improvements" >Soldering-Room-Improvements</a>
 
 ## Photo
 
