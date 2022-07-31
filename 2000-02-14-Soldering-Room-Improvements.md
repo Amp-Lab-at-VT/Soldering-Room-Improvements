@@ -3,8 +3,8 @@ layout: project_template
 title: Soldering Room Improvements
 description: Upon completion of this project, an average student in the ECE department should be able to solder his or her board in one afternoon, from start to finish, with the aid of specially designed tools and a precise workflow.
 date: 2000-02-14 09:00:00
-hero_image: /web/img/Soldering-Room-Improvements/open_house.png
-image: /web/img/Soldering-Room-Improvements/open_house.png
+hero_image: /web/img/Soldering-Room-Improvements/Hero.png
+image: /web/img/Soldering-Room-Improvements/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
