@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Zida Sung
-Bob Lineberry
+author: Zida Sung, Bob Lineberry
 show_sidebar: false
 ---
 
